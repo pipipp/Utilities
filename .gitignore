@@ -1,0 +1,10 @@
+# IDES and editors
+/.idea/*
+/.vscode/*
+/.*/
+
+# virtualenv
+/.api/*
+__pycache__/
+*.xml
+*.swp
